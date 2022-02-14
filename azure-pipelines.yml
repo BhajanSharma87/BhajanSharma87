@@ -14,5 +14,5 @@ steps:
       # Write your commands here
       
       echo 'Hello world'
-      echo "My First Test"
+      echo 'My First Test'
 -
